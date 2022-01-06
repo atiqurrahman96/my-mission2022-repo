@@ -1,0 +1,64 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin: 100px}
+h1{
+    font-size: 40px;}
+.goldenrod-color{
+    color: goldenrod;}
+.border-color{
+    border-left: 5px solid;
+    border-image:linear-gradient(#f6b73c, #4d9f0c) 30;;
+    border-image-slice: 1;}
+section{
+    display: flex;
+    margin: 50px;}
+.half-width{
+    width: 50%;}
+.half-width img{
+    width: 50%;}
+.link-button{
+    text-decoration:none ;
+    background-image: linear-gradient(red,yellow);
+    padding: 10px 40px;
+    border-radius: 10px;}
+.display{
+    display: flex;}
+.class-one{
+    width: 50%;
+    margin-left: 5%;
+    margin-right:0%;
+    background-color: teal;
+    padding-left: 30px;
+    box-shadow: blueviolet 20px 10px 60px;
+    border-radius: 40px;}
+.class-two{
+    width: 50%;
+    margin-left: 5%;
+    margin-right:5%;
+    background-color: salmon;
+    padding-left: 30px;
+    box-shadow: yellowgreen 20px 10px 60px;
+    border-radius: 40px;}
+.class-three{
+    width: 50%;
+    margin-left: 0%;
+    margin-right: 50%;
+    background-color: cadetblue;
+    padding-left: 30px;
+    box-shadow: tomato 20px 10px 60px;
+    border-radius: 40px;}
+.text-align{
+text-align: center;
+    font-weight: 700;}
+#text-align{
+    text-align: center;}
+#color{
+    color: seagreen;}
+.background-bottom{
+   margin-left: 10px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size:20 px;
+    padding-left: 80px;
+    padding-right: 60px;}
