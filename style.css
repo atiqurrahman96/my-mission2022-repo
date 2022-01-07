@@ -54,11 +54,38 @@ text-align: center;
     text-align: center;}
 #color{
     color: seagreen;}
+    .margin-class{
+        margin-top: 10%;
+    }
 .background-bottom{
    margin-left: 10px;
+   margin-top:10% ;
     margin-right: 0px;
     margin-bottom: 50px;
     background-repeat: no-repeat;
     background-size:20 px;
     padding-left: 80px;
     padding-right: 60px;}
+    .class-mission{
+        color: white;
+        font-style: italic;
+        font-weight: 900;
+    }
+    #footer-id-color{
+        color: white;
+    }
+    span{
+        color: #f6b73c;
+    }
+    .footer-class{
+        text-align: center;
+   display: flex;
+   flex-direction: column;
+      height:250%;  
+    margin-top: 10%;
+
+margin-left: 5%;
+margin-right: auto;
+background-color: black;
+        
+    }
